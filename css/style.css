@@ -7,7 +7,8 @@ body{
     background-image: linear-gradient(#00000054, #00000099);
     font-family: 'Lato', sans-serif;
     background: url(../img/bg.jpg);
-    background-position: center;
+    background-size: cover;
+    background-position: top center;r;
     background-repeat: no-repeat;
     color: #ffffff;
     
@@ -68,5 +69,8 @@ footer a{
     }
     .coronaBox {
         margin: 20px 0;
+    }
+    .coronaTitle {
+        margin-top: 16px;
     }
 }
